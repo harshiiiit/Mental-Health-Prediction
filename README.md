@@ -1,4 +1,4 @@
-![http://gallery.world/wallpaper/494186](Images/horizon_banner.png)
+![http://gallery.world/wallpaper/494186](Images/bannerburnout.png)
 # Mental Health Predictor
 
 ## Background
@@ -65,10 +65,6 @@
   - Availability of mental healthcare providers
   - Data from wearable devices can be used to identify physiological markers associated with mental illness
   - Social media and internet activity can provide insight into a behavioral side of mental health
-## Presenation Slides
-- The presentation of the project will be found on a Google Slide Presenation,
-[Here](https://docs.google.com/presentation/d/1T0pPPJlH2q55Iz5oIuN2MVgiFmE9DHhBDO7ZB3xee1I/edit?usp=sharing)
 ## Dashboards
 - Tableau Dashboard
   - Data Exporation Visuals and Machine Learning Summary
-    - https://nhafer88.github.io/Mental_Health_Predictor/
