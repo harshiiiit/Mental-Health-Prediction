@@ -45,7 +45,7 @@
 - We tried logistic regression, support vector machines (1-3 kernels), decision tree, gradient tree boost (learning rates .05 - 1), random forest, and 1-2 layer deep learning
 - We used 10-fold cross-validation - i.e., 10 machine learning instances of randomly allocating 90% of data to training and 10% to testing. We averaged the performance across the 10 instances.
 
-![accuracy](Images/m_accuracy.png)
+![accuracy](Images/models.png)
 ![f](Images/f_importance.png)
 ## Summary of Findings
 - Multiple machine learning models were used and most of them provided about 80% accuracy in their mental health risk prediction.
