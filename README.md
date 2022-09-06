@@ -1,4 +1,4 @@
-![http://gallery.world/wallpaper/494186](Images/bannerburnout.png)
+![http://gallery.world/wallpaper/494186](Images/horizon_banner.png)
 # Mental Health Predictor
 
 ## Background
